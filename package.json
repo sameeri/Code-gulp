@@ -1,0 +1,27 @@
+{
+  "name": "gulp-start",
+  "version": "1.0.0",
+  "description": "Getting started with gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sameeri/Code-gulp.git"
+  },
+  "keywords": [
+    "gulp",
+    "taskrunner",
+    "build"
+  ],
+  "author": "Sameeri Marryboyina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sameeri/Code-gulp/issues"
+  },
+  "homepage": "https://github.com/sameeri/Code-gulp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}

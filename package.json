@@ -1,7 +1,7 @@
 {
-  "name": "gulp-start",
+  "name": "gulp-tasks-dependencies",
   "version": "1.0.0",
-  "description": "Getting started with gulp",
+  "description": "Understanding tasks and task dependencies with gulp",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/sameeri/Code-gulp#readme",
   "devDependencies": {
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "run-sequence": "^1.1.1"
   }
 }

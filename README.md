@@ -1,2 +1,3 @@
 # Code-gulp
-gulp awesomenes
+gulp awesomeness
+
